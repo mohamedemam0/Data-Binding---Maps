@@ -1,0 +1,84 @@
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\App.xbf
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\MapPage.xbf
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\MainPage.xbf
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Data Binding - Maps.Windows.xr.xml
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Data Binding - Maps.Windows.exe
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Data Binding - Maps.Windows.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\resources.pri
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\AppxManifest.xml
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Data Binding - Maps.Windows.build.appxrecipe
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Bing.Maps.xml
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\App.g.cs
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MainPage.g.cs
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MapPage.g.i.cs
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MapPage.g.cs
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\App.xaml
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MainPage.xaml
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MapPage.xaml
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\App.xbf
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MainPage.xbf
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MapPage.xbf
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\Data Binding - Maps.Windows.exe
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\Data Binding - Maps.Windows.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\Data Binding - Maps.Windows.csproj.GenerateResource.Cache
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\priconfig.xml
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\layout.resfiles
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\resources.resfiles
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\pri.resfiles
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\qualifiers.txt
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mohamed\Documents\Visual Studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\ProjectArchitectures.txt
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\App.g.i.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\App.g.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MainPage.g.i.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MainPage.g.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MapPage.g.i.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MapPage.g.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\App.xaml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MapPage.xaml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\App.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MapPage.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\Data Binding - Maps.Windows.exe
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\Data Binding - Maps.Windows.pdb
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\App.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\MapPage.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\MainPage.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Data Binding - Maps.Windows.xr.xml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Data Binding - Maps.Windows.exe
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Data Binding - Maps.Windows.pdb
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\resources.pri
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\AppxManifest.xml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Data Binding - Maps.Windows.build.appxrecipe
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Bing.Maps.winmd
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\x86\Debug\Bing.Maps.xml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MainPage.xaml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MainPage.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\Data Binding - Maps.Windows.csproj.GenerateResource.Cache
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\priconfig.xml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\priconfig.xml.intermediate
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\layout.resfiles
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\layout.resfiles.intermediate
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\resources.resfiles
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\resources.resfiles.intermediate
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\pri.resfiles
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\pri.resfiles.intermediate
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\qualifiers.txt
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\x86\Debug\ProjectArchitectures.txt

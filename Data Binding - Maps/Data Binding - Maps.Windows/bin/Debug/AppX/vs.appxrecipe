@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMAM</Machine>
+    <WindowsUser>Mohamed</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>68155d43-40b2-408a-9796-fc6dceb1078b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C0B4AA172D5FEE213F95ECA7DB72F04166D59F38D068F3647D49E45D0CAFAE35</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>68155d43-40b2-408a-9796-fc6dceb1078b_1.0.0.0_neutral__qg5cpme2007we</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>68155d43-40b2-408a-9796-fc6dceb1078b_qg5cpme2007we!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>68155d43-40b2-408a-9796-fc6dceb1078b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mohamed</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-21T17:47:32.574</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\Debug\Data Binding - Maps.Windows.exe">
+      <PackagePath>Data Binding - Maps.Windows.exe</PackagePath>
+      <Modified>2014-09-21T17:52:39.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-09-21T13:00:48.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Shared\Images\windows8-logo.jpg">
+      <PackagePath>Images\windows8-logo.jpg</PackagePath>
+      <Modified>2014-03-16T16:02:42.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-21T17:36:59.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-09-21T17:52:39.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\Debug\MapPage.xbf">
+      <PackagePath>MapPage.xbf</PackagePath>
+      <Modified>2014-09-21T17:36:59.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\Debug\Data Binding - Maps.Windows.xr.xml">
+      <PackagePath>Data Binding - Maps.Windows.xr.xml</PackagePath>
+      <Modified>2014-09-21T17:52:39.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-21T17:47:32.217</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

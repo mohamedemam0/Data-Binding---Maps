@@ -1,0 +1,1 @@
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.Windows\Data Binding - Maps.Windows.csproj;x86

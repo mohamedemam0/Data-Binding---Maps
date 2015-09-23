@@ -1,0 +1,53 @@
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\bin\Debug\Data Binding - Maps.WindowsPhone.xr.xml
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\bin\Debug\Data Binding - Maps.WindowsPhone.exe
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\bin\Debug\Data Binding - Maps.WindowsPhone.pdb
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\bin\Debug\Data Binding - Maps.WindowsPhone.build.appxrecipe
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\Data Binding - Maps.WindowsPhone.exe
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\Data Binding - Maps.WindowsPhone.pdb
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\bin\Debug\MapPage.xbf
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MapPage.g.i.cs
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MapPage.g.cs
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MapPage.xaml
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MapPage.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\App.g.i.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\App.g.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MapPage.g.i.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MapPage.g.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\App.xaml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MainPage.xaml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MapPage.xaml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\App.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MainPage.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\MapPage.xbf
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\Data Binding - Maps.WindowsPhone.exe
+D:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\APP FACTORY\Day 1\Task 1\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps\Data Binding - Maps.WindowsPhone\obj\Debug\Data Binding - Maps.WindowsPhone.pdb
